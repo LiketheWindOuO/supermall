@@ -5,8 +5,6 @@
         <div :style="isActiveStyle">
             <slot name="item-text"></slot>
         </div>
-
-
     </div>
 </template>
 
